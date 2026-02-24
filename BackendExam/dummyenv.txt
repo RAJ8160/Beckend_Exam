@@ -1,0 +1,4 @@
+MONGO_URL = "mongodb+srv://Sem_6:23010101215Raj@cluster0.jm5rtx5.mongodb.net/Backend?appName=Cluster0"
+CORS_ORIGIN = "*"
+ACCESS_TOKEN_SECRET = "My Name is Raj"
+ACCESS_TOKEN_EXPIRY = 1d
